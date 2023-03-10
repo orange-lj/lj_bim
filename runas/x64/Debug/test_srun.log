@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(test_srun.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pch.cpp
+  dllmain.cpp
+C:\Users\liujun\source\repos\test_srun\dllmain.cpp(130,9): warning C4101: “hThread”: 未引用的局部变量
+C:\Users\liujun\source\repos\test_srun\dllmain.cpp(131,8): warning C4101: “dwThreadId”: 未引用的局部变量
+    正在创建库 C:\Users\liujun\source\repos\Project7\x64\Debug\runas.lib 和对象 C:\Users\liujun\source\repos\Project7\x64\Debug\runas.exp
+detours.lib(detours.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(detours.obj)”或在“C:\Users\liujun\source\repos\Project7\x64\Debug\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+detours.lib(modules.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(modules.obj)”或在“C:\Users\liujun\source\repos\Project7\x64\Debug\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+detours.lib(disasm.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(disasm.obj)”或在“C:\Users\liujun\source\repos\Project7\x64\Debug\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  test_srun.vcxproj -> C:\Users\liujun\source\repos\Project7\x64\Debug\runas.dll

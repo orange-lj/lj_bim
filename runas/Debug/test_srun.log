@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(test_srun.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pch.cpp
+  dllmain.cpp
+C:\Users\liujun\source\repos\test_srun\dllmain.cpp(130,9): warning C4101: “hThread”: 未引用的局部变量
+C:\Users\liujun\source\repos\test_srun\dllmain.cpp(131,8): warning C4101: “dwThreadId”: 未引用的局部变量
+    正在创建库 C:\Users\liujun\source\repos\Project7\Debug\runas.lib 和对象 C:\Users\liujun\source\repos\Project7\Debug\runas.exp
+  test_srun.vcxproj -> C:\Users\liujun\source\repos\Project7\Debug\runas.dll

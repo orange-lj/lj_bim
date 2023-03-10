@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\liujun\Desktop\test\Project1\源.cpp(76,44): warning C4244: “=”: 从“SIZE_T”转换到“WORD”，可能丢失数据
+C:\Users\liujun\Desktop\test\Project1\源.cpp(77,57): warning C4244: “=”: 从“SIZE_T”转换到“WORD”，可能丢失数据
+C:\Users\liujun\Desktop\test\Project1\源.cpp(124,14): warning C4244: “初始化”: 从“DWORD64”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\liujun\Desktop\test\Project1\Debug\Project1.exe
